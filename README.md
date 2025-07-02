@@ -1,5 +1,5 @@
 # BankApp
-
+ 
 Basit bir bankacılık uygulamasıdır. Flutter ile geliştirilmiştir. Kullanıcı dostu arayüzü ile temel bankacılık işlemlerini simüle eder.
 
 ## Özellikler
