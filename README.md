@@ -1,17 +1,17 @@
 # BankApp
  
-Basit bir bankacılık uygulamasıdır. Flutter ile geliştirilmiştir. Kullanıcı dostu arayüzü ile temel bankacılık işlemlerini simüle eder.
+It is a simple banking application developed with Flutter. It simulates basic banking operations with a user-friendly interface.
 
-## Özellikler
-* Hesap bakiyesi görüntüleme
+## Features
+* View account balance
 
-* Yeni kullanıcı ekleme
+* Add new user
 
-* Eklenen verileri editleme
+* Edit added data
 
-* Kullanıcı dostu tasarım
+* User-friendly design
 
-## Uygulama Resimleri
+## Applications Image
 
 <table align="center">
   <tr>
@@ -54,11 +54,11 @@ Basit bir bankacılık uygulamasıdır. Flutter ile geliştirilmiştir. Kullanı
 
 
 
-## Kurulum
-1- Gerekli paketleri yükleyin:
+## Setup
+1- Install the required packages:
   
   flutter pub get  
 
-2- Uygulamayı çalıştırın:
+2- Run the application:
 
   flutter run  
